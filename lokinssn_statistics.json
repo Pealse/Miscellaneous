@@ -1,7 +1,11 @@
 {
-    "updateTime": "1725296017",
-    "guildCount": "253",
-    "userCount": "13611",
-    "commandsUsed": "0",
-    "interactionsUsed": "0"
+    "updateTime": "1725296414",
+    "count": {
+        "guild": "253",
+        "user": "13611"
+    },
+    "used": {
+        "commands": "0",
+        "interactions": "0"
+    }
 }
