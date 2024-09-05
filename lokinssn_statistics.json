@@ -1,7 +1,7 @@
 {
     "time": {
-        "update": "1725536527",
-        "up": "122038"
+        "update": "1725542947",
+        "up": "128458"
     },
     "count": {
         "guild": "252",
@@ -12,9 +12,9 @@
         "interactions": "0"
     },
     "leaderboard": {
-        "tictactoe": "1. xeno101 - 108\n2. mlad_ - 19\n3. aossori0 - 10\n4. shortinia - 1",
-        "snake": "1. mlad_ - 44\n2. shortinia - 36\n3. xeno101 - 35\n4. aossori0 - 30",
-        "cash": "1. xeno101 - 56885\n2. lumine_lk - 10550\n3. mlad_ - 4369\n4. aossori0 - 1923\n5. shortinia - 1044",
-        "bank": "1. mlad_ - 100"
+        "tictactoe": "1xeno101 108\n2mlad_ 19\n3aossori0 10\n4shortinia 1",
+        "snake": "1mlad_ 44\n2shortinia 36\n3xeno101 35\n4aossori0 30",
+        "cash": "1xeno101 56885\n2lumine_lk 10550\n3mlad_ 4369\n4aossori0 1923\n5shortinia 1044",
+        "bank": "1mlad_ 100"
     }
 }
