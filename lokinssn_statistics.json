@@ -1,15 +1,15 @@
 {
     "time": {
-        "update": "1726746191",
-        "up": "3600"
+        "update": "1726749790",
+        "up": "7200"
     },
     "count": {
         "guild": "251",
         "user": "13604"
     },
     "used": {
-        "commands": "0",
-        "interactions": "0"
+        "commands": "5",
+        "interactions": "71"
     },
     "leaderboard": {
         "tictactoe": "1. xeno101 - 108\n2. mlad_ - 20\n3. aossori0 - 10\n4. shortinia - 1",
