@@ -1,18 +1,18 @@
 {
     "time": {
-        "update": "1726749790",
-        "up": "7200"
+        "update": "1726753390",
+        "up": "10800"
     },
     "count": {
         "guild": "251",
-        "user": "13604"
+        "user": "13605"
     },
     "used": {
-        "commands": "5",
-        "interactions": "71"
+        "commands": "21",
+        "interactions": "95"
     },
     "leaderboard": {
-        "tictactoe": "1. xeno101 - 108\n2. mlad_ - 20\n3. aossori0 - 10\n4. shortinia - 1",
+        "tictactoe": "1. xeno101 - 108\n2. mlad_ - 19\n3. aossori0 - 10\n4. shortinia - 1",
         "snake": "1. mlad_ - 44\n2. shortinia - 36\n3. xeno101 - 35\n4. aossori0 - 30",
         "cash": "1. xeno101 - 56885\n2. eolthar - 10800\n3. mlad_ - 6094\n4. aossori0 - 1923\n5. shortinia - 1044",
         "bank": "1. mlad_ - 100"
