@@ -1,16 +1,16 @@
 {
     "time": {
-        "update": "1726854695",
-        "up": "72000"
+        "update": "1726858295",
+        "up": "75600"
     },
-    "ping": "53",
+    "ping": "68",
     "count": {
         "guild": "250",
         "user": "13374"
     },
     "used": {
-        "commands": "210",
-        "interactions": "1260"
+        "commands": "214",
+        "interactions": "1389"
     },
     "leaderboard": {
         "tictactoe": "1. xeno101 - 108\n2. mlad_ - 20\n3. aossori0 - 10\n4. eolthar - 2\n5. shortinia - 1",
