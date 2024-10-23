@@ -1,16 +1,16 @@
 {
     "time": {
-        "update": "1729711243",
-        "up": "2354403"
+        "update": "1729714842",
+        "up": "2358003"
     },
     "version": "5.23.1016 Plus",
-    "ping": "63",
+    "ping": "57",
     "count": {
         "guild": "250",
         "user": "13385"
     },
     "used": {
         "commands": "776",
-        "interactions": "11538"
+        "interactions": "11547"
     }
 }
